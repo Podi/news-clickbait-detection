@@ -1,6 +1,6 @@
 # News Clickbait Detection
 
-This project builds a binary classifier for detecting clickbait-style news headlines.
+This project builds a binary classifier for detecting clickbait-style news headlines as part of a master's degree project at Vienna University of Economics and Business by Peter Podobni and Marie-Sophie Höller.
 
 The project idea is based on Potthast et al. [[1]](https://doi.org/10.48550/arxiv.1812.10847), who organized the Clickbait Challenge 2017 in order to automatically detect clickbait in news headlines. Our use of RoBERTa is motivated by Alarfaj et al. [[2]](https://doi.org/10.1038/s41598-025-30229-5), who used RoBERTa-Large and deep embeddings for clickbait detection in news headlines.
 
