@@ -97,6 +97,6 @@ The final RoBERTa-base test results shown in the notebook are:
 
 [2] F. K. Alarfaj, A. Muqadas, H. U. Khan, and A. Naz, "Clickbait detection in news headlines using RoBERTa-Large language model and deep embeddings," Scientific Reports, vol. 16, no. 1, 2025. doi: 10.1038/s41598-025-30229-5.
 
-[3] vikassingh1996, "News Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/vikassingh1996/news-clickbait-dataset/data. [Accessed: Jun. 26, 2026].
+[3] vikassingh1996, "News Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/vikassingh1996/news-clickbait-dataset/data.
 
-[4] amananandrai, "Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset. [Accessed: Jun. 26, 2026].
+[4] amananandrai, "Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset.
