@@ -93,10 +93,10 @@ The final RoBERTa-base test results shown in the notebook are:
 
 ## References
 
-[1] M. Potthast, T. Gollub, M. Hagen, and B. Stein, "The Clickbait Challenge 2017: Towards a Regression Model for Clickbait Strength," ArXiv (Cornell University), 2018. doi: 10.48550/arxiv.1812.10847.
+[1] M. Potthast, T. Gollub, M. Hagen, and B. Stein, “The Clickbait Challenge 2017: Towards a Regression Model for Clickbait Strength,” arXiv (Cornell University), Dec. 2018, doi: https://doi.org/10.48550/arxiv.1812.10847.
 
-[2] F. K. Alarfaj, A. Muqadas, H. U. Khan, and A. Naz, "Clickbait detection in news headlines using RoBERTa-Large language model and deep embeddings," Scientific Reports, vol. 16, no. 1, 2025. doi: 10.1038/s41598-025-30229-5.
+[2] F. K. Alarfaj, A. Muqadas, H. U. Khan, and A. Naz, “Clickbait detection in news headlines using RoBERTa-Large language model and deep embeddings,” Scientific Reports, vol. 16, no. 1, Dec. 2025, doi: https://doi.org/10.1038/s41598-025-30229-5.
 
-[3] vikassingh1996, "News Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/vikassingh1996/news-clickbait-dataset/data.
+[3] V. Singh, “News Clickbait Dataset,” 2026, [Online]. Available: https://www.kaggle.com/datasets/vikassingh1996/news-clickbait-dataset/data
 
-[4] amananandrai, "Clickbait Dataset," Kaggle. [Online]. Available: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset.
+[4] A. Anand, “Clickbait Dataset,” 2026, [Online]. Available: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset
