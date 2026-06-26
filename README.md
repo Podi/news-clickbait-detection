@@ -6,7 +6,7 @@ The project idea is based on Potthast et al. [[1]](https://doi.org/10.48550/arxi
 
 ## Project Description
 
-In this project, clickbait means a headline that tries to attract clicks by creating curiosity, exaggerating, hiding key information, using emotional wording, or making the reader feel that they need to open the article to understand what happened.
+In this project, clickbait describes a headline that tries to attract clicks of users by creating curiosity, exaggerating, hiding key information, using emotional wording, or making the reader feel that they need to open the article to understand what happened.
 
 The task is supervised binary classification with two labels:
 
@@ -85,7 +85,7 @@ The final RoBERTa-base test results shown in the notebook are:
 ## Limitations
 
 - The model detects clickbait style, not truthfulness.
-- Labels can be subjective because the boundary between catchy wording and clickbait is not always clear.
+- Labelling may be subjective as the boundary between catchy wording and clickbait is not always clear.
 - The dataset sources may contain repeated patterns, so performance may not fully represent real-world news.
 - The model may flag dramatic but legitimate headlines as clickbait.
 - The model may miss clickbait headlines that are written in a plain news style.
